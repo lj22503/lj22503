@@ -1,78 +1,75 @@
-### 👋 Hi there, I'm 燃冰 / lj22503
+# 燃冰 · lj22503
 
-**一人CEO · AI+财富管理跨领域实践者**
+10 年基金/财富管理老兵 · AI + 金融的跨界实践者
 
-> 10年基金/财富管理行业经验 → AI赋能金融的探索者  
-> 用技术放大认知，用工具解放人力
+所有产品，全部做给金融人用。我只负责搞清楚他们需要什么。
 
----
-
-### 🛠️ 工具箱
-
-```
-AI/LLM     │ Prompt Engineering · AI Agent · RAG · Coze
-编程        │ Python · SQL · 数据分析 · TypeScript
-产品        │ 0-1产品搭建 · 飞书小程序 · 用户增长
-金融        │ 基金产品 · 财富管理 · 投顾服务
-```
+<!-- STATS-START -->
+[![Total Stars](https://img.shields.io/badge/Total%20Stars-0-FFD93D?style=flat&logo=github&logoColor=white)]()
+[![Followers](https://img.shields.io/badge/Followers-0-4C8BF5?style=flat&logo=github&logoColor=white)]()
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-46-2EA44F?style=flat&logo=github&logoColor=white)]()
+<!-- STATS-END -->
 
 ---
 
-### 🚀 已上线项目
+### 我在做的事
 
-#### 💳 金融人工作流
-| 项目 | 说明 | 入口 |
-|------|------|------|
-| [Finance AI Station](https://github.com/lj22503/finance-ai-station) | AI趋势面板 + 金融工作流自动化 | [financepro.mangofolio.com](https://financepro.mangofolio.com) |
+**一人投顾工具包 · SoloAdvisor-Toolkit**
 
-#### 📈 投资投顾
-| 项目 | 说明 | 入口 |
-|------|------|------|
-| [Wealth Advisor](https://github.com/lj22503/wealth-advisor) | 理财经理投顾系统（FA-Assistant） | 飞书小程序 |
-| [Investment Framework](https://github.com/lj22503/investment-framework-skill) | 13本经典的AI投资决策系统（v3.0） | [GitHub](https://github.com/lj22503/investment-framework-skill) |
-| [Investment Pet](https://github.com/lj22503/investment-buddy-pet) | 12只投资宠物，趣味学资产配置 | [GitHub](https://github.com/lj22503/investment-buddy-pet) |
+让独立理财师用 AI 提供专业投顾服务。从 KYC 到投后管理，全流程标准化。你不是一个人的小团队，你是一人投顾。
 
-#### 🏛️ 公益
-| 项目 | 说明 | 入口 |
-|------|------|------|
-| [Women Awakening Museum](https://github.com/lj22503/women-awakening-museum) | 50+女性榜样 × 16种MBTI人格互动博物馆 | [awakening.mangofolio.com](https://awakening.mangofolio.com) |
-| [BetterLife](https://github.com/lj22503/betterlife) | 24套主题 × 114个技能 × 财商教育套件 | [GitHub](https://github.com/lj22503/betterlife) |
-| [Diaolong](https://github.com/lj22503/diaolong-skill) | 雕龙叙事——个人IP故事生成器 | [diaolong.mangofolio.com](https://diaolong.mangofolio.com) |
+[![SoloAdvisor-Toolkit](https://img.shields.io/github/stars/lj22503/SoloAdvisor-Toolkit?style=flat&label=SoloAdvisor)](https://github.com/lj22503/SoloAdvisor-Toolkit)
 
-#### 🧠 成长工具
-| 项目 | 说明 | 入口 |
-|------|------|------|
-| [Problem Tree Tool](https://github.com/lj22503/problem-tree-tool) | AI引导的问题拆解工具（v2.0） | [problemmap.mangofolio.com](https://problemmap.mangofolio.com) |
-| [Context Manager](https://github.com/lj22503/context-manager) | 知识管理：收集→打标→存储→发芽→产出 | [GitHub](https://github.com/lj22503/context-manager) |
-| [Knowledge Workflow](https://github.com/lj22503/knowledge-workflow) | 完整知识管理工作流 | [GitHub](https://github.com/lj22503/knowledge-workflow) |
+**金融运营工具箱 · finops-Toolkit**
 
-[→ 查看全部项目](https://github.com/lj22503?tab=repositories)
+金融行业运营流程的自动化加速器。从数据清洗到报告生成，把重复工作交给工具，把时间留给判断。
+
+[![finops-Toolkit](https://img.shields.io/github/stars/lj22503/finops-Toolkit?style=flat&label=finops)](https://github.com/lj22503/finops-Toolkit)
+
+**投资宠物 · Investment Pet**
+
+12 只投资宠物人格，从松果到孤狼。用拟人化降低资产配置的认知门槛——适合入门，也适合复盘。
+
+[![Investment Pet](https://img.shields.io/github/stars/lj22503/investment-buddy-pet?style=flat&label=Investment%20Pet)](https://github.com/lj22503/investment-buddy-pet)
+
+**投资大脑 · Invest Brain**
+
+把投资大师的决策框架变成可调用的系统。不只是看他们的结论，而是理解他们怎么判断。
+
+[![Invest Brain](https://img.shields.io/github/stars/lj22503/invest-brain?style=flat&label=Invest%20Brain)](https://github.com/lj22503/invest-brain)
 
 ---
 
-### 💡 近期在做
+### 我在写的
 
-- 📝 **「金融人AI协作指南」** 系列内容输出
-- 🤖 **多线自进化 AI Agent 系统**
-- 🏗️ **AI 辅助财富管理工作流平台**
-- 📖 AI + 金融落地应用研究
+**金融人 AI 协作指南**
 
----
+不是 AI 科普，是金融从业者的实操手册。从投顾怎么用 AI 写报告，到运营怎么用 AI 管流程——每一篇都有真实案例、可复用的 prompt、跑通的工作流。
 
-### 📊 GitHub Stats
+**雕龙叙事**
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lj22503&show_icons=true&theme=transparent&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lj22503&layout=compact&theme=transparent&hide=html,css" height="150"/>
-</div>
+把个人经历变成有结构、有冲突、有说服力的故事。不是鸡汤，是叙事工程。
+
+**注意力工程**
+
+在信息过载的时代，注意力是最稀缺的资源。写给产品经理和内容创作者的注意力系统设计指南。
 
 ---
 
-### 📫 联系我
+### 我相信的
 
-- 🌐 知识星球：搜索「燃冰的AI+财富管理」
-- 📧 Email: lj22503@users.noreply.github.com
+**金融业不缺工具，缺的是会用工具的人。** AI 不会替代理财师，会用 AI 的理财师会替代不会用的。
+
+**从实践中来，到实践中去。** 我不写「AI 可能会怎样改变金融」的预测文，只写「我用 AI 做了什么」的实录。每个项目、每篇文章，都是真实场景的副产品。
+
+**产品是最好表达。** 一个跑通的工作流，胜过十篇分析报告。做出来，放出去，让用户告诉你对不对。
 
 ---
 
-<sub>⚡ 这个 GitHub是我的第二大脑 —— 所有项目都是 AI + 人协作的产物</sub>
+### 找到我
+
+**公众号** · 燃冰（建设中）
+
+**X / 即刻** · @lj22503
+
+**邮箱** · lj22503@gmail.com

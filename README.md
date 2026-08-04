@@ -35,6 +35,7 @@ AI/LLM     │ Prompt Engineering · AI Agent · RAG · Coze
 |------|------|
 | [Investment Pet](https://github.com/lj22503/investment-buddy-pet) | 12只投资宠物人格，用拟人化学资产配置 |
 | [Invest Brain](https://github.com/lj22503/invest-brain) | 把投资大师的决策框架变成可调用的系统 |
+| [Invest dictionary](https://github.com/lj22503/invest-dictionary) | 中文金融扫盲 · 说人话的投资科普 · 覆盖股票/基金/债券/保险/房产/宏观 |
 | [BetterLife](https://github.com/lj22503/betterlife) | 24套主题×114个技能，财商教育套件 |
 
 #### 🏛️ 公益 & 工具

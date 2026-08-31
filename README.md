@@ -36,8 +36,8 @@ AI / LLM     │ Prompt Engineering · AI Agent · RAG · Claude · 大模型应
 | [Investment Pet](https://github.com/lj22503/investment-buddy-pet) | 12 只投资宠物人格，用拟人化学资产配置 |
 | [Invest Brain](https://brain.mangofoliio.com) | 把投资大师的决策框架变成可调用的系统 |
 | [Invest dictionary](https://dictionary.mangofoliio.com) | 中文金融扫盲 · 说人话的投资科普 |
-| [会问 iask](https://iask.mangofoliio.com) | 中文金融扫盲 · 说人话的投资科普 |
-| [Invest Fintools](https://fintools.mangofolio.com) | 中文金融扫盲 · 说人话的投资科普 |
+| [会问 iask](https://iask.mangofoliio.com) | 会提问 = 你有了一个更好的AI理财师 |
+| [Invest Fintools](https://fintools.mangofolio.com) | 9个计算器覆盖投资前最长文的帐，权威信源直达  |
 | [BetterLife](https://github.com/lj22503/betterlife) | 24 套主题 × 114 个技能，财商教育套件 |
 
 ### 🏛️ 公益与方法论

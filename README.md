@@ -34,9 +34,9 @@ AI / LLM     │ Prompt Engineering · AI Agent · RAG · Claude · 大模型应
 | 项目 | 说明 |
 |------|------|
 | [Investment Pet](https://github.com/lj22503/investment-buddy-pet) | 12 只投资宠物人格，用拟人化学资产配置 |
-| [Invest Brain](https://brain.mangofoliio.com) | 把投资大师的决策框架变成可调用的系统 |
-| [Invest dictionary](https://dictionary.mangofoliio.com) | 中文金融扫盲 · 说人话的投资科普 |
-| [会问 iask](https://iask.mangofoliio.com) | 会提问 = 你有了一个更好的AI理财师 |
+| [Invest Brain](https://brain.mangofolio.com) | 把投资大师的决策框架变成可调用的系统 |
+| [Invest dictionary](https://dictionary.mangofolio.com) | 中文金融扫盲 · 说人话的投资科普 |
+| [会问 iask](https://iask.mangofolio.com) | 会提问 = 你有了一个更好的AI理财师 |
 | [Invest Fintools](https://fintools.mangofolio.com) | 9个计算器覆盖投资前最长文的帐，权威信源直达  |
 | [BetterLife](https://github.com/lj22503/betterlife) | 24 套主题 × 114 个技能，财商教育套件 |
 
@@ -62,7 +62,7 @@ AI / LLM     │ Prompt Engineering · AI Agent · RAG · Claude · 大模型应
 2. **工具层** — SoloAdvisor 把投顾机构用的方法论开源给独立顾问和小白用户
 3. **能力层** — Investment Pet / Invest Brain 把投资大师的决策框架沉淀为可调用的系统
 
-不是让每个人变成基金经理，而是让每个都能用上基金经理级别的方法论。
+不是让每个人变成基金经理，而是让每个人都能用上基金经理级别的方法论。
 
 
 ## 📍 找到我
@@ -71,4 +71,4 @@ AI / LLM     │ Prompt Engineering · AI Agent · RAG · Claude · 大模型应
 - **GitHub**：[@lj22503](https://github.com/lj22503)
 - **作品集**：[lj22503.github.io/lijing](https://lj22503.github.io/lijing/)
 
-让工具复利属于每个认真生活的人 
+让工具的复利属于每个认真生活的人 

@@ -18,6 +18,13 @@ AI / LLM     │ Prompt Engineering · AI Agent · RAG · Claude · 大模型应
 金融         │ 基金产品 · 财富管理 · 投顾服务 · 合规与风控
 
 
+## 🔍 正在连载：拆解 100 个 AI 产品
+
+每天拆一个 AI 产品，只写三样东西：**可核实的事实**（每篇附 10+ 条官方来源）、**一手实测**、**明确标注的推断**。不给假精度，不把推断说成事实。
+
+进度 **1 / 100** → [teardown-100](https://github.com/lj22503/teardown-100) ｜ 最新一篇：[Notion AI](https://github.com/lj22503/teardown-100/tree/main/001-notion)
+
+
 ## 🚀 我在做的事
 
 ### 💳 给独立投顾和金融从业者的工具

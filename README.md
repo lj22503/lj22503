@@ -22,7 +22,7 @@ AI / LLM     │ Prompt Engineering · AI Agent · RAG · Claude · 大模型应
 
 每天拆一个 AI 产品，只写三样东西：**可核实的事实**（每篇附 10+ 条官方来源）、**一手实测**、**明确标注的推断**。不给假精度，不把推断说成事实。
 
-进度 **11 / 100** → [teardown-100](https://github.com/lj22503/teardown-100) ｜ 最新一篇：[Gamma](https://github.com/lj22503/teardown-100/tree/main/012-gamma-3)
+进度 **13 / 100** → [teardown-100](https://github.com/lj22503/teardown-100) ｜ 最新一篇：[Taskade](https://github.com/lj22503/teardown-100/tree/main/014-taskade)
 
 
 ## 🚀 我在做的事
